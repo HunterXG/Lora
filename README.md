@@ -1,1 +1,1 @@
-<img width="1120" height="480" alt="repository-open-graph-template — копия — копия" src="https://github.com/user-attachments/assets/07cf99e5-d932-4e87-9c23-9c64cf716f79" />
+<img width="547" height="180" alt="repository-open-graph-template — копия — копия — копия" src="https://github.com/user-attachments/assets/63099eb6-8847-414c-8e8f-53d6b1ce9fc3" />
